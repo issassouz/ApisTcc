@@ -83,3 +83,4 @@ D:\ISABELLE\TCC\Apis\Apis\obj\Debug\net9.0\ref\Apis.dll
 D:\ISABELLE\TCC\Apis\Apis\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\ISABELLE\TCC\Apis\Apis\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\ISABELLE\TCC\Apis\Apis\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ISABELLE\TCC\Apis\Apis\obj\Debug\net9.0\Apis.sourcelink.json
